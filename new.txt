@@ -5,4 +5,7 @@ welcome to git
 
 try to do something new
 
+
+learning pythomn
+
 learning springboot
